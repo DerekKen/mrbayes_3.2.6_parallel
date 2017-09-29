@@ -1,6 +1,6 @@
 # mrbayes_3.2.6_parallel
 
-Here is the code of our thesis: *A Three-Level Parallel Algorithm Using AVX For MrBayes 3.2*. **Mingjie Zhao** did most of the work, and I am glad that I did make some contributions.
+Here is the code of our thesis: *A Three-Level Parallel Algorithm Using AVX For MrBayes 3.2*(accepted by [ISPA2017]( http://trust.gzhu.edu.cn/conference/ISPA2017)). **Mingjie Zhao** did most of the work, and I am glad that I did make some contributions.
 
 1. Introduction
 2. Getting Started
